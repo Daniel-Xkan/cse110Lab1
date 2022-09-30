@@ -17,9 +17,21 @@ This applies to my coding, namely hardworkingness in programming and always lear
 
 My fav language: python. Since you only need `print(hello world)` instead of `sys.out.println(hello world)`
 
-My knowledge in programming: -python -c -C++ -Java -html -CSS -Javascript -React -Nodejs
+My knowledge in programming: 
+- python 
+- c 
+- C++ 
+- Java 
+- html 
+- CSS 
+- Javascript 
+- React 
+- Nodejs
 
-Things i need to learn: 1. json 2. databases 3. backend
+Things i need to learn: 
+1. json 
+2. databases 
+3. backend
 
 The way on finding programming jobs:
 - [x] do some projects
