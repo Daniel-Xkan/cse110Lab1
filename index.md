@@ -3,11 +3,11 @@
 # About Xuechen(Daniel) Kan 
 please read the file[README.md](README.md) in repository first
 
-[interests and introduction](https://github.com/Daniel-Xkan/cse110Lab1/blob/vscode-ui/index.md#interests-and-introduction)
+[interests and introduction](https://daniel-xkan.github.io/cse110Lab1/#interests-and-introduction)
 
-[my cs skills](https://github.com/Daniel-Xkan/cse110Lab1/blob/vscode-ui/index.md#my-cs-skills)
+[my cs skills](https://daniel-xkan.github.io/cse110Lab1/#my-cs-skills)
 
-[future goals](https://github.com/Daniel-Xkan/cse110Lab1/blob/vscode-ui/index.md#future-goals)
+[future goals](https://daniel-xkan.github.io/cse110Lab1/#future-goals)
 
 **this is the webpage for cse110 lab1: gh pages**
 
