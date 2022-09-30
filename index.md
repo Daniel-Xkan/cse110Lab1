@@ -1,11 +1,15 @@
 ![Daniel-selfie.jpg](smallpic.jpg)
 
 # About Xuechen(Daniel) Kan 
-[my basic info](README.md)
+please read the file[README.md](README.md) in repository first
+
+[interests and introduction]()
+[my cs skills]()
+[future goals]()
 
 **this is the webpage for cse110 lab1: gh pages**
 
-## basic info
+## interests and introduction
 Hi my name is Daniel Kan. Im currenly UCSD 3rd year undergrad student, insterests are Tennis, surfing, snowboarding, coding, and MONEY. Here is a link to [my personal portfolio](https://about-daniel.vercel.app/).
 
 I also play games such as ~~valorant~~, *counterstrike*, *civilization IV*.
