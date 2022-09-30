@@ -1,4 +1,4 @@
-![Daniel-selfie.jpg](Daniel-selfie.jpg)
+![Daniel-selfie.jpg](smallpic.jpg)
 
 # About Xuechen(Daniel) Kan 
 [my basic info](README.md)
@@ -7,10 +7,10 @@
 
 Hi my name is Daniel Kan. Im currenly UCSD 3rd year undergrad student, insterests are Tennis, surfing, snowboarding, coding, and MONEY. Here is a link to [my personal portfolio](https://about-daniel.vercel.app/).
 
-I also play games such as ~~valorant~~, counterstrike, *civilization IV*.
+I also play games such as ~~valorant~~, *counterstrike*, *civilization IV*.
 
 My fav quote is from an ancient Chinese philosopher Zhuang Zi:
->盈科而后进>
+>盈科而后进
 
 which means *if you need to cross obstacles to pace forward in life*. 
 This applies to my coding, namely hardworkingness in programming and always learning. 
