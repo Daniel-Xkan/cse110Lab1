@@ -5,6 +5,7 @@
 
 **this is the webpage for cse110 lab1: gh pages**
 
+## basic info
 Hi my name is Daniel Kan. Im currenly UCSD 3rd year undergrad student, insterests are Tennis, surfing, snowboarding, coding, and MONEY. Here is a link to [my personal portfolio](https://about-daniel.vercel.app/).
 
 I also play games such as ~~valorant~~, *counterstrike*, *civilization IV*.
@@ -15,6 +16,7 @@ My fav quote is from an ancient Chinese philosopher Zhuang Zi:
 which means *if you need to cross obstacles to pace forward in life*. 
 This applies to my coding, namely hardworkingness in programming and always learning. 
 
+## my cs skills
 My fav language: python. Since you only need `print(hello world)` instead of `sys.out.println(hello world)`
 
 My knowledge in programming: 
@@ -33,6 +35,7 @@ Things i need to learn:
 2. databases 
 3. backend
 
+## future goals
 The way on finding programming jobs:
 - [x] do some projects
 - [] get an intern
