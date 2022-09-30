@@ -11,6 +11,7 @@ I also play games such as ~~valorant~~, counterstrike, *civilization IV*.
 
 My fav quote is from an ancient Chinese philosopher Zhuang Zi:
 >盈科而后进
+
 which means *if you need to cross obstacles to pace forward in life*. 
 This applies to my coding, namely hardworkingness in programming and always learning. 
 
